@@ -2,7 +2,7 @@
 - 💼 I’m currently working as Cloud Architect at The Wave Studio
 - 👀 I’m interested in Cloud computing & architectures, AI and web development
 - 🌱 I’m currently learning AWS and others Cloud providers
-- 💞️ I’m looking to collaborate on new Cloud projects 
+- 🔍 I’m looking to collaborate on new Cloud projects 
 - 📫 How to reach me -> roberto.russo@thewavestudio.it
 
 <!---
